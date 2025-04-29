@@ -6,7 +6,7 @@ export default function Home() {
       <div className="relative text-center space-y-8">
         <div className="absolute inset-0 bg-[radial-gradient(circle_at_center,_rgba(0,255,255,0.1)_0%,_transparent_70%)] animate-pulse"></div>
         <h1 className="relative text-7xl md:text-9xl font-light tracking-tight text-transparent bg-clip-text bg-gradient-to-r from-cyan-400 via-blue-500 to-purple-600 animate-gradient-x">
-          eHealth
+          iAm
           <span className="block text-5xl md:text-7xl mt-2 text-white/90">
             Somalia
           </span>
